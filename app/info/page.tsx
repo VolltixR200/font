@@ -46,12 +46,12 @@ export default function Home() {
                         Skills
                     </h2>
                     <ul className="list-none text-sm opacity-75 text-gray-700 dark:text-gray-300">
-                        <li className="mb-1 flex items-center"><i className="fab fa-js-square mr-2"></i>JavaScript</li>
-                        <li className="mb-1 flex items-center"><i className="fab fa-react mr-2"></i>React</li>
-                        <li className="mb-1 flex items-center"><i className="fas fa-code mr-2"></i>Next.js</li>
-                        <li className="mb-1 flex items-center"><i className="fab fa-html5 mr-2"></i>HTML & CSS</li>
-                        <li className="mb-1 flex items-center"><i className="fab fa-node mr-2"></i>Node.js</li>
-                        <li className="mb-1 flex items-center"><i className="fab fa-python mr-2"></i>Python</li>
+                        <li className="mb-1 flex items-center">JavaScript</li>
+                        <li className="mb-1 flex items-center">React</li>
+                        <li className="mb-1 flex items-center">Next.js</li>
+                        <li className="mb-1 flex items-center">HTML & CSS</li>
+                        <li className="mb-1 flex items-center">Node.js</li>
+                        <li className="mb-1 flex items-center">Python</li>
                     </ul>
                 </div>
 
