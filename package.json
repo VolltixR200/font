@@ -4,11 +4,9 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "next build && npm run import-fontawesome",
+    "build": "next build ",
     "start": "next start",
-    "lint": "next lint",
-    "import-fontawesome": "cp node_modules/@fortawesome/fontawesome-free/css/all.min.css public/fontawesome.css"
-  },
+    "lint": "next lint"},
   "dependencies": {
     "react": "^18",
     "react-dom": "^18",
