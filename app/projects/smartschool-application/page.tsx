@@ -31,8 +31,8 @@ export default function Home() {
                         <p>The project has gone through several iterations to improve its functionality and performance:</p>
                         <ul className="list-disc list-inside mb-4">
                             <li><strong>Flask:</strong> The project initially started as a web application built using Flask, a lightweight WSGI web application framework in Python. Flask was chosen for its simplicity and flexibility, allowing us to quickly set up a functional prototype.</li>
-                            <li><strong>React:</strong> To enhance the user experience and provide a more dynamic interface, we transitioned the project to React. React's component-based architecture and efficient rendering made the application more interactive and responsive.</li>
-                            <li><strong>Next.js:</strong> Finally, we moved the project to Next.js, a React framework that offers server-side rendering and static site generation. This shift allowed us to improve the application's performance and SEO, leveraging Next.js's powerful features to create a fast and scalable solution.</li>
+                            <li><strong>React:</strong> To enhance the user experience and provide a more dynamic interface, we transitioned the project to React. React&apos;s component-based architecture and efficient rendering made the application more interactive and responsive.</li>
+                            <li><strong>Next.js:</strong> Finally, we moved the project to Next.js, a React framework that offers server-side rendering and static site generation. This shift allowed us to improve the application&apos;s performance and SEO, leveraging Next.js&apos;s powerful features to create a fast and scalable solution.</li>
                         </ul>
                     </div>
                 </div>
@@ -45,9 +45,9 @@ export default function Home() {
                         <p>The primary goal of the project is to facilitate the use of attitudecards in the first grade. Attitudecards are tools used by educators to help students understand and develop positive behaviors and attitudes. By digitizing this process, we aim to achieve several objectives:</p>
                         <ul className="list-disc list-inside">
                             <li><strong>Ease of Use:</strong> Providing a digital platform makes it simpler for teachers to manage and utilize attitudecards, reducing the need for physical cards and paperwork.</li>
-                            <li><strong>Enhanced Tracking:</strong> Teachers can easily track and monitor each student's progress, ensuring that positive behaviors are consistently encouraged and reinforced.</li>
+                            <li><strong>Enhanced Tracking:</strong> Teachers can easily track and monitor each student&apos;s progress, ensuring that positive behaviors are consistently encouraged and reinforced.</li>
                             <li><strong>Personalized Feedback:</strong> The platform allows for personalized feedback to be given to students, helping them understand their strengths and areas for improvement in a clear and constructive manner.</li>
-                            <li><strong>Parental Involvement:</strong> By digitizing the attitudecard system, parents can also be kept informed of their child's progress, fostering better communication between home and school.</li>
+                            <li><strong>Parental Involvement:</strong> By digitizing the attitudecard system, parents can also be kept informed of their child&apos;s progress, fostering better communication between home and school.</li>
                             <li><strong>Data-Driven Insights:</strong> The system can generate reports and insights based on the collected data, helping educators make informed decisions about their teaching strategies and interventions.</li>
                             <li><strong>Positive Learning Environment:</strong> Encouraging the use of attitudecards helps create a positive and supportive classroom atmosphere where students are motivated to exhibit good behavior and attitudes.</li>
                             <li><strong>Scalability:</strong> The digital platform can be easily adapted and scaled to different classes or schools, making it a versatile tool for a wide range of educational settings.</li>
