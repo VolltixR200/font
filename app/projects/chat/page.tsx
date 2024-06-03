@@ -46,7 +46,8 @@ export default function Home() {
                             <li><strong>Real-Time Interaction:</strong> The system supports real-time messaging, helping friends stay connected without delays.</li>
                             <li><strong>Scalability:</strong> The digital platform can be easily adapted and scaled to accommodate more users, making it a versatile tool for larger groups or communities.</li>
                         </ul>
-                        <p>Note: The webchat is currently down for security reasons. We are working on resolving these issues to ensure a safe and secure experience for all users.</p>
+                        <p>Note: The webchat is currently down for security reasons. We are working on resolving these
+                            issues to ensure a safe and secure experience for all users.</p>
                     </div>
                 </div>
             </div>
