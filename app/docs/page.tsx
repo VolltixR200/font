@@ -10,8 +10,8 @@ export default function Home() {
                     className="fixed bottom-0 left-0 flex h-48 w-full items-end justify-center bg-gradient-to-t from-white via-white dark:from-black dark:via-black lg:static lg:size-auto lg:bg-none">
                     <h1 className="flex place-items-center gap-2 p-8 lg:pointer-events-auto lg:p-0"
                         rel="noopener noreferrer">
-                        go{' '}
-                        <a href="/">Home</a>
+                        Go{' '}
+                        <a href="/">Back</a>
                     </h1>
                 </div>
             </div>
