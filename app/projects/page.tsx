@@ -78,6 +78,22 @@ export default function Home() {
                         friends). Click here for more information. (currently offline for security reasons)
                     </p>
                 </a>
+                <a
+                    href="/projects/spotify"
+                    className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30"
+                    rel="noopener noreferrer"
+                >
+                    <h2 className="mb-3 text-2xl font-semibold">
+                        Spotify download without premium{" "}
+                        <span
+                            className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
+            -&gt;
+        </span>
+                    </h2>
+                    <p className="m-0 max-w-[30ch] text-sm opacity-50">
+                        This is a small project made in flask with Spotify API that gets liked songs from your account and downloads them on youtube and puts them in downloads folder.
+                    </p>
+                </a>
 
 
             </div>
