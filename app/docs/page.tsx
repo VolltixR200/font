@@ -45,8 +45,38 @@ export default function Home() {
                                 style={{border: 'none'}}></iframe>
                     </div>
                     <p className="flex w-full justify-center border-b border-gray-300 bg-gradient-to-b from-zinc-200 pb-6 pt-8 backdrop-blur-2xl dark:border-neutral-800 dark:bg-zinc-800/30 dark:from-inherit lg:static lg:w-auto lg:rounded-xl lg:border lg:bg-gray-200 lg:p-4 lg:dark:bg-zinc-800/30">
-                        <a target="_blank" className="font-mono font-bold" href="/fr.pdf">Open Cv in separate window.</a>
+                        <a target="_blank" className="font-mono font-bold" href="/fr.pdf">Open Cv in separate
+                            window.</a>
                     </p>
+                </div>
+                <div
+                    className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30">
+                    <h2 className="mb-3 text-2xl font-semibold">
+                        Internship 2024
+                    </h2>
+
+                    <div
+                        className="flex flex-col w-full justify-center items-center border-b border-gray-300 bg-gradient-to-b from-zinc-200 pb-6 pt-8 backdrop-blur-2xl dark:border-neutral-800 dark:bg-zinc-800/30 dark:from-inherit lg:static lg:w-auto lg:rounded-xl lg:border lg:bg-gray-200 lg:p-8 lg:dark:bg-zinc-800/30">
+                        <img src="/assets/images/deniba.png" alt="Deniba Software Logo" className="w-32 h-auto mb-6"/>
+                        <p className="text-lg font-semibold mb-4 text-center">
+                            My 2024 internship was at <a href="https://www.deniba.at/home/"
+                                                         className="text-blue-600 hover:underline">Deniba
+                            Software</a> in Austria.
+                        </p>
+                        <p className="text-base mb-2 text-center">
+                            During this internship, I gained insights into business operations and collaboration.
+                        </p>
+                        <p className="text-base mb-2 text-center">
+                            I also learned to work with the <a href="https://angular.dev/"
+                                                               className="text-blue-600 hover:underline">Angular</a> framework
+                            and <a href="https://material.angular.io/" className="text-blue-600 hover:underline">Angular
+                            Material</a>, and integrated <a href="https://www.mongodb.com/"
+                                                            className="text-blue-600 hover:underline">MongoDB</a> into
+                            Angular projects.
+                        </p>
+                    </div>
+
+
                 </div>
                 <div
                     className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30">
