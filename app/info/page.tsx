@@ -42,7 +42,6 @@ export default function Home() {
                         <li className="mb-1 flex items-center">Node.js</li>
                         <li className="mb-1 flex items-center">Python</li>
                         <li className="mb-1 flex items-center">Basic PHP</li>
-
                     </ul>
                 </div>
                 <div
