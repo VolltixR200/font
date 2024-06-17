@@ -130,7 +130,7 @@ export default function Home() {
                                 app.run(debug=True)
                         `}
                         </pre>
-                        <p>This flask application makes you login with Spotify account via Spotify API. Then it gets all your liked songs and searches them on Youtube via youtube API docs V3. Then with a python library it downloads the songs and puts them on in downloads folder.</p>
+                        <p>This flask application makes you login with Spotify account via Spotify API. Then it gets all your liked songs and searches them on Youtube via youtube API docs V3. Then with a python library it downloads the songs and puts them in downloads folder.</p>
                     </div>
                 </div>
 
